@@ -1,3 +1,7 @@
+<div align=center>
+    <img src="assets/jorgedevs-linkedin-banner.jpg">
+</div>
+
 ## Hi there 👋
 
 <!--
