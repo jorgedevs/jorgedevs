@@ -10,11 +10,11 @@
 </div>
 
 <div align="right">
-    <a href="https://twitter.com/jorgedevs" target="_blank"><img src="assets/icon-github.png" alt="Website"></a>
-    <a href="https://github.com/jorgedevs" target="_blank"><img src="assets/icon-linkedin.png" alt="LinkedIn" ></a>
-    <a href="https://linkedin.com/in/jorgedevs" target="_blank"><img src="assets/icon-youtube.png" alt="YouTube"></a>
-    <a href="https://linkedin.com/in/jorgedevs" target="_blank"><img src="assets/icon-instagram.png" alt="Instagram"></a>
-    <a href="https://linkedin.com/in/jorgedevs" target="_blank"><img src="assets/icon-email.png" alt="Email"></a>
+    <a href="https://jorgedevs.github.io/" target="_blank"><img src="assets/icon-website.png" alt="Website"></a>
+    <a href="https://linkedin.com/in/jorgedevs" target="_blank"><img src="assets/icon-linkedin.png" alt="LinkedIn" ></a>
+    <a href="https://youtube.com/@jorgedevs" target="_blank"><img src="assets/icon-youtube.png" alt="YouTube"></a>
+    <a href="https://www.instagram.com/jorgedevs/" target="_blank"><img src="assets/icon-instagram.png" alt="Instagram"></a>
+    <a href="mailto:ramirez.jorgea@outlook.com" target="_blank"><img src="assets/icon-email.png" alt="Email"></a>
 </div>
 
 <!--
