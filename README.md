@@ -10,11 +10,11 @@
 </div>
 
 <div align="right">
-    <a href="https://twitter.com/jorgedevs" target="_blank"><img src="assets/icon-github.png" height="15em" alt="Twitter" style="margin: 10px 5px;"></a>
-    <a href="https://github.com/jorgedevs" target="_blank"><img src="assets/icon-linkedin.png" height="15em" alt="GitHub" style="margin: 10px 5px;"></a>
-    <a href="https://linkedin.com/in/jorgedevs" target="_blank"><img src="assets/icon-youtube.png" height="15em" alt="LinkedIn" style="margin: 10px 5px;"></a>
-    <a href="https://linkedin.com/in/jorgedevs" target="_blank"><img src="assets/icon-instagram.png" height="15em" alt="LinkedIn" style="margin: 10px 5px;"></a>
-    <a href="https://linkedin.com/in/jorgedevs" target="_blank"><img src="assets/icon-email.png" height="15em" alt="LinkedIn" style="margin: 10px 5px;"></a>
+    <a href="https://twitter.com/jorgedevs" target="_blank"><img src="assets/icon-github.png" alt="Twitter" style="margin: 10px 5px;"></a>
+    <a href="https://github.com/jorgedevs" target="_blank"><img src="assets/icon-linkedin.png" alt="GitHub" style="margin: 10px 5px;"></a>
+    <a href="https://linkedin.com/in/jorgedevs" target="_blank"><img src="assets/icon-youtube.png" alt="LinkedIn" style="margin: 10px 5px;"></a>
+    <a href="https://linkedin.com/in/jorgedevs" target="_blank"><img src="assets/icon-instagram.png" alt="LinkedIn" style="margin: 10px 5px;"></a>
+    <a href="https://linkedin.com/in/jorgedevs" target="_blank"><img src="assets/icon-email.png" alt="LinkedIn" style="margin: 10px 5px;"></a>
 </div>
 
 <!--
