@@ -4,7 +4,46 @@
 
 ## Hi there 👋
 
-I'm a Software Developer passionate about turning customer ideas into intuitive, visually polished applications. With over 10 years working with .NET, I've built a wide range of applications for mobile, desktop, even embedded devices.<br><br>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><img width="100" alt="csharp-logo" src="https://github.com/user-attachments/assets/98e9ec89-9d68-470c-8833-cd2e9abc2d49" /></td>
+      <td>
+        <table>
+          <tr>
+            <td>⚔️ <strong>Languages:</strong></td>
+            <td>C# • XAML • HTML • CSS • JavaScript • TypeScript</td>
+          </tr>
+          <tr>
+            <td>🌐 <strong>Frontend:</strong></td>
+            <td>.NET MAUI • Avalonia • Xamarin • WPF • UWP • Blazor • React </td>
+          </tr>
+          <tr>
+            <td>⚙️ <strong>Backend:</strong></td>
+            <td>.NET Core • ASP.NET</td>
+          </tr>
+          <tr>
+            <td>💼 <strong>Databases:</strong></td>
+            <td>SQLite • MS SQL Server • PostgreSQL</td>
+          </tr>
+          <tr>
+            <td>☁️ <strong>DevOps:</strong></td>
+            <td>GitHub Actions • Jenkins • Azure</td>
+          </tr>
+          <tr>
+            <td>🎯 <strong>Specialties:</strong></td>
+            <td>Mobile Development • Developer Relations & Advocacy • Automation Tools</td>
+          </tr>
+          <tr>
+            <td>💡 <strong>Can talk about:</strong></td>
+            <td>Mobile Development • .NET IoT • AI • Music & Gaming</td>
+          </tr>
+        </table>
+      </td>
+      <td><img width="100" alt="dotnet-logo" src="https://github.com/user-attachments/assets/f6c13b2f-0754-47d9-9fff-35deb5def253" /></td>
+    </tr>
+  </table>
+</div>
 
 <img src="assets/clima-screen.png" style="margin: 10px 20px;">
 
