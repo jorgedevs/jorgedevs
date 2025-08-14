@@ -32,11 +32,11 @@
           </tr>
           <tr>
             <td>🎯 <strong>Specialties:</strong></td>
-            <td>Mobile Development • Developer Relations & Advocacy • Automation Tools</td>
+            <td>Mobile Development • Developer Relations & Advocacy • Web Services</td>
           </tr>
           <tr>
             <td>💡 <strong>Can talk about:</strong></td>
-            <td>Mobile Development • .NET IoT • AI • Music & Gaming</td>
+            <td>Coding • .NET IoT • AI • Music & Gaming</td>
           </tr>
         </table>
       </td>
