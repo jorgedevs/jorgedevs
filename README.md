@@ -4,6 +4,8 @@
 
 ## Hi there 👋
 
+### Skill set
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -44,6 +46,14 @@
     </tr>
   </table>
 </div>
+
+### Tools, Frameworks & Platforms
+
+<div align="center">
+    <img alt="tech-stack" src="https://github.com/user-attachments/assets/34a4c86f-e133-41fe-a64a-7b90404792e7" />
+</div>
+
+### Portfolio
 
 <img src="assets/clima-screen.png" style="margin: 10px 20px;">
 
