@@ -2,9 +2,7 @@
     <img src="assets/jorgedevs-linkedin-banner.jpg">
 </div>
 
-## Hi there 👋
-
-### Skill set
+## Skill set
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
@@ -47,13 +45,13 @@
   </table>
 </div>
 
-### Tools, Frameworks & Platforms
+## Tools, Frameworks & Platforms
 
 <div align="center">
     <img alt="tech-stack" src="https://github.com/user-attachments/assets/34a4c86f-e133-41fe-a64a-7b90404792e7" />
 </div>
 
-### Portfolio
+## Portfolio
 
 <div align="center">
     <img width="1620" height="797" alt="img-clima-logs" src="https://github.com/user-attachments/assets/e3ecd57a-7881-4643-a5bd-4a02169b0bce" />
