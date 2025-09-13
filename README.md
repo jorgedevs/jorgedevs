@@ -54,7 +54,7 @@
 ## Portfolio
 
 <div align="center">
-    <a href="https://jorgedevs.github.io/portfolio.html"><img width="1620" height="797" alt="img-clima-logs" src="https://github.com/user-attachments/assets/e3ecd57a-7881-4643-a5bd-4a02169b0bce" /></a>
+    <a href="https://jorgedevs.github.io/portfolio.html" target="_blank"><img width="1620" height="797" alt="img-clima-logs" src="https://github.com/user-attachments/assets/e3ecd57a-7881-4643-a5bd-4a02169b0bce" /></a>
 </div>
 
 <br/>
