@@ -64,20 +64,13 @@
       <td><img alt="dotnet-logo" src="/assets/tile-jambox.png" /></td>
     </tr>
   </table> -->
-
-  <p>
-    <img alt="csharp-logo" src="/assets/tile-jambox.png" width="50%" />
-    <img alt="csharp-logo" src="/assets/tile-jambox.png" width="50%" /><br/>
-    <img alt="csharp-logo" src="/assets/tile-jambox.png" width="50%" />
-    <img alt="csharp-logo" src="/assets/tile-jambox.png" width="50%" />
-  </p>
 </div>
 
 <div align="center">
-  <img src="/assets/tile-jambox.png" width="180" style="display:inline-block; margin:8px;">
-  <img src="/assets/tile-jambox.png" width="180" style="display:inline-block; margin:8px;"><br>
-  <img src="/assets/tile-jambox.png" width="180" style="display:inline-block; margin:8px;">
-  <img src="/assets/tile-jambox.png" width="180" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-jambox.png" width="40%" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-jambox.png" width="40%" style="display:inline-block; margin:8px;"><br>
+  <img src="/assets/tile-jambox.png" width="40%" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-jambox.png" width="40%" style="display:inline-block; margin:8px;">
 </div>
 
 ## Portfolio
