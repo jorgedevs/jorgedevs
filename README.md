@@ -54,7 +54,7 @@
 ## Open Source Projects
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <!-- <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td><img alt="csharp-logo" src="/assets/tile-jambox.png" /></td>
       <td><img alt="dotnet-logo" src="/assets/tile-jambox.png" /></td>
@@ -63,7 +63,14 @@
       <td><img alt="csharp-logo" src="/assets/tile-jambox.png" /></td>
       <td><img alt="dotnet-logo" src="/assets/tile-jambox.png" /></td>
     </tr>
-  </table>
+  </table> -->
+
+  <p>
+    <img alt="csharp-logo" src="/assets/tile-jambox.png" />
+    <img alt="csharp-logo" src="/assets/tile-jambox.png" /><br/>
+    <img alt="csharp-logo" src="/assets/tile-jambox.png" />
+    <img alt="csharp-logo" src="/assets/tile-jambox.png" />
+  </p>
 </div>
 
 ## Portfolio
