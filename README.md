@@ -51,6 +51,15 @@
     <img alt="tech-stack" src="https://github.com/user-attachments/assets/34a4c86f-e133-41fe-a64a-7b90404792e7" />
 </div>
 
+## Open Source Projects
+
+<div align="center">
+  <img src="/assets/tile-jambox.png" width="42%" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-netframes.png" width="42%" style="display:inline-block; margin:8px;"><br>
+  <img src="/assets/tile-meadow-samples.png" width="42%" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-mystop.png" width="42%" style="display:inline-block; margin:8px;">
+</div>
+
 ## Portfolio
 
 <div align="center">
