@@ -51,6 +51,21 @@
     <img alt="tech-stack" src="https://github.com/user-attachments/assets/34a4c86f-e133-41fe-a64a-7b90404792e7" />
 </div>
 
+## Open Source Projects
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><img width="100" alt="csharp-logo" src="/assets/tile-jambox.png" /></td>
+      <td><img width="100" alt="dotnet-logo" src="/assets/tile-jambox.png" /></td>
+    </tr>
+    <tr>
+      <td><img width="100" alt="csharp-logo" src="/assets/tile-jambox.png" /></td>
+      <td><img width="100" alt="dotnet-logo" src="/assets/tile-jambox.png" /></td>
+    </tr>
+  </table>
+</div>
+
 ## Portfolio
 
 <div align="center">
