@@ -66,10 +66,10 @@
   </table> -->
 
   <p>
-    <img alt="csharp-logo" src="/assets/tile-jambox.png" />
-    <img alt="csharp-logo" src="/assets/tile-jambox.png" /><br/>
-    <img alt="csharp-logo" src="/assets/tile-jambox.png" />
-    <img alt="csharp-logo" src="/assets/tile-jambox.png" />
+    <img alt="csharp-logo" src="/assets/tile-jambox.png" width="50%" />
+    <img alt="csharp-logo" src="/assets/tile-jambox.png" width="50%" /><br/>
+    <img alt="csharp-logo" src="/assets/tile-jambox.png" width="50%" />
+    <img alt="csharp-logo" src="/assets/tile-jambox.png" width="50%" />
   </p>
 </div>
 
