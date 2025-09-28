@@ -73,6 +73,13 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="/assets/tile-jambox.png" width="180" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-jambox.png" width="180" style="display:inline-block; margin:8px;"><br>
+  <img src="/assets/tile-jambox.png" width="180" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-jambox.png" width="180" style="display:inline-block; margin:8px;">
+</div>
+
 ## Portfolio
 
 <div align="center">
