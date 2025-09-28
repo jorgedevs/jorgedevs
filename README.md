@@ -56,12 +56,12 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td><img width="100" alt="csharp-logo" src="/assets/tile-jambox.png" /></td>
-      <td><img width="100" alt="dotnet-logo" src="/assets/tile-jambox.png" /></td>
+      <td><img alt="csharp-logo" src="/assets/tile-jambox.png" /></td>
+      <td><img alt="dotnet-logo" src="/assets/tile-jambox.png" /></td>
     </tr>
     <tr>
-      <td><img width="100" alt="csharp-logo" src="/assets/tile-jambox.png" /></td>
-      <td><img width="100" alt="dotnet-logo" src="/assets/tile-jambox.png" /></td>
+      <td><img alt="csharp-logo" src="/assets/tile-jambox.png" /></td>
+      <td><img alt="dotnet-logo" src="/assets/tile-jambox.png" /></td>
     </tr>
   </table>
 </div>
