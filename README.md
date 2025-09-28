@@ -54,23 +54,10 @@
 ## Open Source Projects
 
 <div align="center">
-  <!-- <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td><img alt="csharp-logo" src="/assets/tile-jambox.png" /></td>
-      <td><img alt="dotnet-logo" src="/assets/tile-jambox.png" /></td>
-    </tr>
-    <tr>
-      <td><img alt="csharp-logo" src="/assets/tile-jambox.png" /></td>
-      <td><img alt="dotnet-logo" src="/assets/tile-jambox.png" /></td>
-    </tr>
-  </table> -->
-</div>
-
-<div align="center">
   <img src="/assets/tile-jambox.png" width="42%" style="display:inline-block; margin:8px;">
-  <img src="/assets/tile-jambox.png" width="42%" style="display:inline-block; margin:8px;"><br>
-  <img src="/assets/tile-jambox.png" width="42%" style="display:inline-block; margin:8px;">
-  <img src="/assets/tile-jambox.png" width="42%" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-netframes.png" width="42%" style="display:inline-block; margin:8px;"><br>
+  <img src="/assets/tile-meadow-samples.png" width="42%" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-mystop.png" width="42%" style="display:inline-block; margin:8px;">
 </div>
 
 ## Portfolio
