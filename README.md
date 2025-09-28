@@ -67,10 +67,10 @@
 </div>
 
 <div align="center">
-  <img src="/assets/tile-jambox.png" width="45%" style="display:inline-block; margin:8px;">
-  <img src="/assets/tile-jambox.png" width="45%" style="display:inline-block; margin:8px;"><br>
-  <img src="/assets/tile-jambox.png" width="45%" style="display:inline-block; margin:8px;">
-  <img src="/assets/tile-jambox.png" width="45%" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-jambox.png" width="43%" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-jambox.png" width="43%" style="display:inline-block; margin:8px;"><br>
+  <img src="/assets/tile-jambox.png" width="43%" style="display:inline-block; margin:8px;">
+  <img src="/assets/tile-jambox.png" width="43%" style="display:inline-block; margin:8px;">
 </div>
 
 ## Portfolio
