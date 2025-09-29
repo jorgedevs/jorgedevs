@@ -54,11 +54,11 @@
 ## Open Source Projects
 
 <div align="center">
-  <a href="https://github.com/adrianstevens/JamBox"><img src="/assets/tile-jambox.png" width="42%"></a>
-  <a href="https://github.com/jorgedevs/NetFrames"><img src="/assets/tile-netframes.png" width="42%"></a>
+  <a href="https://github.com/adrianstevens/JamBox"><img src="/assets/tile-jambox.png" alt="Image of JamBox" width="42%"></a>
+  <a href="https://github.com/jorgedevs/NetFrames"><img src="/assets/tile-netframes.png" alt="Image of NetFrames" width="42%"></a>
   <br>
-  <a href="https://github.com/WildernessLabs/Meadow.Samples"><img src="/assets/tile-meadow-samples.png" width="42%"></a>
-  <a href="https://github.com/jorgedevs/MyStop"><img src="/assets/tile-mystop.png" width="42%"></a>
+  <a href="https://github.com/WildernessLabs/Meadow.Samples"><img src="/assets/tile-meadow-samples.png" alt="Image of Meadow Samples" width="42%"></a>
+  <a href="https://github.com/jorgedevs/MyStop"><img src="/assets/tile-mystop.png" alt="Image of MyStop" width="42%"></a>
 </div>
 
 ## Portfolio
