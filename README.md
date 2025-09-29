@@ -54,28 +54,29 @@
 ## Open Source Projects
 
 <div align="center">
-  <a href="https://github.com/adrianstevens/JamBox"><img src="/assets/tile-jambox.png" width="42%" style="display:inline-block; margin:8px;"></a>
-  <a href="https://github.com/jorgedevs/NetFrames"><img src="/assets/tile-netframes.png" width="42%" style="display:inline-block; margin:8px;"></a><br>
-  <a href="https://github.com/WildernessLabs/Meadow.Samples"><img src="/assets/tile-meadow-samples.png" width="42%" style="display:inline-block; margin:8px;"></a>
-  <a href="https://github.com/jorgedevs/MyStop"><img src="/assets/tile-mystop.png" width="42%" style="display:inline-block; margin:8px;"></a>
+  <a href="https://github.com/adrianstevens/JamBox"><img src="/assets/tile-jambox.png" width="42%"></a>
+  <a href="https://github.com/jorgedevs/NetFrames"><img src="/assets/tile-netframes.png" width="42%"></a>
+  <br>
+  <a href="https://github.com/WildernessLabs/Meadow.Samples"><img src="/assets/tile-meadow-samples.png" width="42%"></a>
+  <a href="https://github.com/jorgedevs/MyStop"><img src="/assets/tile-mystop.png" width="42%"></a>
 </div>
 
 ## Portfolio
 
 <div align="center">
-    <a href="https://jorgedevs.github.io/portfolio.html" target="_blank"><img src="/assets/jorgedevs-portfolio.png" alt="img-clima-logs" width="84%" /></a>
+    <a href="https://jorgedevs.github.io/portfolio.html"><img src="/assets/jorgedevs-portfolio.png" alt="Porfolio Image" width="84%" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-    <img src="assets/jorgedevs-linkedin-footer.jpg" style="width: 100%; display: block;">
+    <img src="assets/jorgedevs-linkedin-footer.jpg" width="100%">
 </div>
 
 <div align="right">
-    <a href="https://jorgedevs.github.io/" target="_blank"><img src="assets/icon-website.png" alt="Website"></a>
-    <a href="https://linkedin.com/in/jorgedevs" target="_blank"><img src="assets/icon-linkedin.png" alt="LinkedIn" ></a>
-    <a href="https://youtube.com/@jorgedevs" target="_blank"><img src="assets/icon-youtube.png" alt="YouTube"></a>
-    <a href="https://www.instagram.com/jorgedevs/" target="_blank"><img src="assets/icon-instagram.png" alt="Instagram"></a>
-    <a href="mailto:ramirez.jorgea@outlook.com" target="_blank"><img src="assets/icon-email.png" alt="Email"></a>
+    <a href="https://jorgedevs.github.io/"><img src="assets/icon-website.png" alt="Website"></a>
+    <a href="https://linkedin.com/in/jorgedevs"><img src="assets/icon-linkedin.png" alt="LinkedIn" ></a>
+    <a href="https://youtube.com/@jorgedevs"><img src="assets/icon-youtube.png" alt="YouTube"></a>
+    <a href="https://www.instagram.com/jorgedevs"><img src="assets/icon-instagram.png" alt="Instagram"></a>
+    <a href="mailto:ramirez.jorgea@outlook.com"><img src="assets/icon-email.png" alt="Email"></a>
 </div>
