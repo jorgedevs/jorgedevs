@@ -48,27 +48,23 @@
 ## Tools, Frameworks & Platforms
 
 <div align="center">
-    <img alt="tech-stack" src="https://github.com/user-attachments/assets/34a4c86f-e133-41fe-a64a-7b90404792e7" />
-</div>
-
-<div align="center">
-  <img width="10%" src="/assets/tile-net.png">
-  <img width="10%" src="/assets/tile-net-maui.png"/>
-  <img width="10%" src="/assets/tile-avalonia.png"/>
-  <img width="10%" src="/assets/tile-blazor.png"/>
-  <img width="10%" src="/assets/tile-vs.png">
-  <img width="10%" src="/assets/tile-vscode.png">
-  <img width="10%" src="/assets/tile-rider.png">
-  <img width="10%" src="/assets/tile-git.png">
+  <a href="https://dotnet.microsoft.com/en-us/"><img width="10%" src="/assets/tile-net.png"></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/maui"><img width="10%" src="/assets/tile-net-maui.png"/></a>
+  <a href="https://avaloniaui.net/"><img width="10%" src="/assets/tile-avalonia.png"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img width="10%" src="/assets/tile-blazor.png"/></a>
+  <a href="https://visualstudio.microsoft.com/"><img width="10%" src="/assets/tile-vs.png"></a>
+  <a href="https://code.visualstudio.com/"><img width="10%" src="/assets/tile-vscode.png"></a>
+  <a href="https://www.jetbrains.com/rider/"><img width="10%" src="/assets/tile-rider.png"></a>
+  <a href="https://git-scm.com/"><img width="10%" src="/assets/tile-git.png"></a>
   <br>
-  <img width="10%" src="/assets/tile-github.png">
-  <img width="10%" src="/assets/tile-azure.png"/>
-  <img width="10%" src="/assets/tile-sqlite.png"/>
-  <img width="10%" src="/assets/tile-figma.png"/>
-  <img width="10%" src="/assets/tile-affinity-photo.png">
-  <img width="10%" src="/assets/tile-windows.png">
-  <img width="10%" src="/assets/tile-macos.png">
-  <img width="10%" src="/assets/tile-linux.png">
+  <a href=""><img width="10%" src="/assets/tile-github.png"></a>
+  <a href=""><img width="10%" src="/assets/tile-azure.png"/></a>
+  <a href=""><img width="10%" src="/assets/tile-sqlite.png"/></a>
+  <a href=""><img width="10%" src="/assets/tile-figma.png"/></a>
+  <a href=""><img width="10%" src="/assets/tile-affinity-photo.png"></a>
+  <a href=""><img width="10%" src="/assets/tile-windows.png"></a>
+  <a href=""><img width="10%" src="/assets/tile-macos.png"></a>
+  <a href=""><img width="10%" src="/assets/tile-linux.png"></a>
 </div>
 
 ## Open Source Projects
