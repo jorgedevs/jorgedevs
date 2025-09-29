@@ -51,6 +51,17 @@
     <img alt="tech-stack" src="https://github.com/user-attachments/assets/34a4c86f-e133-41fe-a64a-7b90404792e7" />
 </div>
 
+<div align="center">
+  <img src="/assets/tile-net.png">
+  <img src="/assets/tile-net-maui.png"/>
+  <img src="/assets/tile-avalonia.png"/>
+  <img src="/assets/tile-blazor.png"/>
+  <img src="/assets/tile-vs.png">
+  <img src="/assets/tile-vscode.png">
+  <img src="/assets/tile-rider.png">
+  <img src="/assets/tile-git.png">
+</div>
+
 ## Open Source Projects
 
 <div align="center">
