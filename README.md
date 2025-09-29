@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/jorgedevs-linkedin-banner.jpg">
+  <img src="/assets/jorgedevs-banner.png">
 </div>
 
 ## Skill set
@@ -86,7 +86,7 @@
 <br/>
 
 <div align="center">
-    <img src="assets/jorgedevs-linkedin-footer.jpg" width="100%">
+    <img src="/assets/jorgedevs-banner-bottom.png" width="100%">
 </div>
 
 <div align="right">
