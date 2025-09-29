@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/jorgedevs-linkedin-banner.jpg">
+  <img src="/assets/jorgedevs-banner.png">
 </div>
 
 ## Skill set
@@ -48,7 +48,23 @@
 ## Tools, Frameworks & Platforms
 
 <div align="center">
-    <img alt="tech-stack" src="https://github.com/user-attachments/assets/34a4c86f-e133-41fe-a64a-7b90404792e7" />
+  <a href="https://dotnet.microsoft.com/en-us/"><img width="10%" src="/assets/tile-net.png" alt=".NET"></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/maui"><img width="10%" src="/assets/tile-net-maui.png" alt=".NET MAUI"/></a>
+  <a href="https://avaloniaui.net/"><img width="10%" src="/assets/tile-avalonia.png" alt="Avalonia"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img width="10%" src="/assets/tile-blazor.png" alt="Blazor"/></a>
+  <a href="https://visualstudio.microsoft.com/"><img width="10%" src="/assets/tile-vs.png" alt="Visual Studio"></a>
+  <a href="https://code.visualstudio.com/"><img width="10%" src="/assets/tile-vscode.png" alt="Visual Studio Code"></a>
+  <a href="https://www.jetbrains.com/rider/"><img width="10%" src="/assets/tile-rider.png" alt="Rider"></a>
+  <a href="https://git-scm.com/"><img width="10%" src="/assets/tile-git.png" alt="Git"></a>
+  <br>
+  <a href="https://github.com/"><img width="10%" src="/assets/tile-github.png" alt="GitHub"></a>
+  <a href="https://azure.microsoft.com/en-ca"><img width="10%" src="/assets/tile-azure.png" alt="Azure"/></a>
+  <a href="https://sqlite.org/"><img width="10%" src="/assets/tile-sqlite.png" alt="SQLite"/></a>
+  <a href="https://www.figma.com/"><img width="10%" src="/assets/tile-figma.png" alt="Figma"/></a>
+  <a href="https://affinity.serif.com/en-gb/photo/"><img width="10%" src="/assets/tile-affinity-photo.png" alt="Affinity Photo"></a>
+  <a href="https://www.microsoft.com/en-ca/windows"><img width="10%" src="/assets/tile-windows.png" alt="Windows"></a>
+  <a href="https://www.apple.com/ca/os/macos/"><img width="10%" src="/assets/tile-macos.png" alt="macOS"></a>
+  <a href="https://www.linux.org/"><img width="10%" src="/assets/tile-linux.png" alt="Linux"></a>
 </div>
 
 ## Open Source Projects
@@ -70,7 +86,7 @@
 <br/>
 
 <div align="center">
-    <img src="assets/jorgedevs-linkedin-footer.jpg" width="100%">
+    <img src="/assets/jorgedevs-banner-bottom.png" width="100%">
 </div>
 
 <div align="right">
