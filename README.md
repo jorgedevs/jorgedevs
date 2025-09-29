@@ -60,6 +60,15 @@
   <img width="10%" src="/assets/tile-vscode.png">
   <img width="10%" src="/assets/tile-rider.png">
   <img width="10%" src="/assets/tile-git.png">
+  <br>
+  <img width="10%" src="/assets/tile-net.png">
+  <img width="10%" src="/assets/tile-net-maui.png"/>
+  <img width="10%" src="/assets/tile-avalonia.png"/>
+  <img width="10%" src="/assets/tile-blazor.png"/>
+  <img width="10%" src="/assets/tile-vs.png">
+  <img width="10%" src="/assets/tile-vscode.png">
+  <img width="10%" src="/assets/tile-rider.png">
+  <img width="10%" src="/assets/tile-git.png">
 </div>
 
 ## Open Source Projects
