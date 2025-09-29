@@ -48,23 +48,23 @@
 ## Tools, Frameworks & Platforms
 
 <div align="center">
-  <a href="https://dotnet.microsoft.com/en-us/"><img width="10%" src="/assets/tile-net.png"></a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/maui"><img width="10%" src="/assets/tile-net-maui.png"/></a>
-  <a href="https://avaloniaui.net/"><img width="10%" src="/assets/tile-avalonia.png"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img width="10%" src="/assets/tile-blazor.png"/></a>
-  <a href="https://visualstudio.microsoft.com/"><img width="10%" src="/assets/tile-vs.png"></a>
-  <a href="https://code.visualstudio.com/"><img width="10%" src="/assets/tile-vscode.png"></a>
-  <a href="https://www.jetbrains.com/rider/"><img width="10%" src="/assets/tile-rider.png"></a>
-  <a href="https://git-scm.com/"><img width="10%" src="/assets/tile-git.png"></a>
+  <a href="https://dotnet.microsoft.com/en-us/"><img width="10%" src="/assets/tile-net.png" alt=".NET"></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/maui"><img width="10%" src="/assets/tile-net-maui.png" alt=".NET MAUI"/></a>
+  <a href="https://avaloniaui.net/"><img width="10%" src="/assets/tile-avalonia.png" alt="Avalonia"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img width="10%" src="/assets/tile-blazor.png" alt="Blazor"/></a>
+  <a href="https://visualstudio.microsoft.com/"><img width="10%" src="/assets/tile-vs.png" alt="Visual Studio"></a>
+  <a href="https://code.visualstudio.com/"><img width="10%" src="/assets/tile-vscode.png" alt="Visual Studio Code"></a>
+  <a href="https://www.jetbrains.com/rider/"><img width="10%" src="/assets/tile-rider.png" alt="Rider"></a>
+  <a href="https://git-scm.com/"><img width="10%" src="/assets/tile-git.png" alt="Git"></a>
   <br>
-  <a href=""><img width="10%" src="/assets/tile-github.png"></a>
-  <a href=""><img width="10%" src="/assets/tile-azure.png"/></a>
-  <a href=""><img width="10%" src="/assets/tile-sqlite.png"/></a>
-  <a href=""><img width="10%" src="/assets/tile-figma.png"/></a>
-  <a href=""><img width="10%" src="/assets/tile-affinity-photo.png"></a>
-  <a href=""><img width="10%" src="/assets/tile-windows.png"></a>
-  <a href=""><img width="10%" src="/assets/tile-macos.png"></a>
-  <a href=""><img width="10%" src="/assets/tile-linux.png"></a>
+  <a href="https://github.com/"><img width="10%" src="/assets/tile-github.png" alt="GitHub"></a>
+  <a href="https://azure.microsoft.com/en-ca"><img width="10%" src="/assets/tile-azure.png" alt="Azure"/></a>
+  <a href="https://sqlite.org/"><img width="10%" src="/assets/tile-sqlite.png" alt="SQLite"/></a>
+  <a href="https://www.figma.com/"><img width="10%" src="/assets/tile-figma.png" alt="Figma"/></a>
+  <a href="https://affinity.serif.com/en-gb/photo/"><img width="10%" src="/assets/tile-affinity-photo.png" alt="Affinity Photo"></a>
+  <a href="https://www.microsoft.com/en-ca/windows"><img width="10%" src="/assets/tile-windows.png" alt="Windows"></a>
+  <a href="https://www.apple.com/ca/os/macos/"><img width="10%" src="/assets/tile-macos.png" alt="macOS"></a>
+  <a href="https://www.linux.org/"><img width="10%" src="/assets/tile-linux.png" alt="Linux"></a>
 </div>
 
 ## Open Source Projects
