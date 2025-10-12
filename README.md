@@ -11,31 +11,31 @@
       <td>
         <table>
           <tr>
-            <td>⚔️ <strong>Languages:</strong></td>
+            <td>⚔️ <strong>Languages</strong></td>
             <td>C# • XAML • HTML • CSS • JavaScript • TypeScript</td>
           </tr>
           <tr>
-            <td>🌐 <strong>Frontend:</strong></td>
+            <td>🌐 <strong>Frontend</strong></td>
             <td>.NET MAUI • Avalonia • Xamarin • WPF • UWP • Blazor • React </td>
           </tr>
           <tr>
-            <td>⚙️ <strong>Backend:</strong></td>
+            <td>⚙️ <strong>Backend</strong></td>
             <td>.NET Core • ASP.NET</td>
           </tr>
           <tr>
-            <td>💼 <strong>Databases:</strong></td>
+            <td>💼 <strong>Databases</strong></td>
             <td>SQLite • MS SQL Server • PostgreSQL</td>
           </tr>
           <tr>
-            <td>☁️ <strong>DevOps:</strong></td>
+            <td>☁️ <strong>DevOps</strong></td>
             <td>GitHub Actions • Jenkins • Azure</td>
           </tr>
           <tr>
-            <td>🎯 <strong>Specialties:</strong></td>
+            <td>🎯 <strong>Specialties</strong></td>
             <td>Mobile Development • Developer Relations & Advocacy • Web Services</td>
           </tr>
           <tr>
-            <td>💡 <strong>Can talk about:</strong></td>
+            <td>💡 <strong>Can talk about</strong></td>
             <td>Coding • .NET IoT • AI • Music & Gaming</td>
           </tr>
         </table>
