@@ -32,7 +32,7 @@
           </tr>
           <tr>
             <td>🎯 <strong>Specialties</strong></td>
-            <td>Mobile Development • Developer Relations & Advocacy • Web Services</td>
+            <td>Mobile/Desktop Development • Developer Relations & Advocacy • Web Services</td>
           </tr>
           <tr>
             <td>💡 <strong>Can talk about</strong></td>
